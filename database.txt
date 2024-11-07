@@ -1,0 +1,203 @@
+{"type":"thought","text":"The universe is vast and full of mysteries.","_id":"1"}
+{"type":"question","text":"What is the tallest building in the world?","_id":"10"}
+{"type":"question","text":"Why do we have different climates?","_id":"100"}
+{"type":"thought","text":"The only true wisdom is in knowing you know nothing.","_id":"101"}
+{"type":"question","text":"What is the capital of Australia?","_id":"102"}
+{"type":"thought","text":"The only thing that interferes with my learning is my education.","_id":"103"}
+{"type":"question","text":"How do stars form?","_id":"104"}
+{"type":"thought","text":"The only way to do great work is to love what you do.","_id":"105"}
+{"type":"question","text":"What is the largest insect?","_id":"106"}
+{"type":"thought","text":"The only thing we have to fear is fear itself.","_id":"107"}
+{"type":"question","text":"Why do we have different seasons?","_id":"108"}
+{"type":"thought","text":"The only true wisdom is in knowing you know nothing.","_id":"109"}
+{"type":"thought","text":"The journey of a thousand miles begins with one step.","_id":"11"}
+{"type":"question","text":"What is the capital of Brazil?","_id":"110"}
+{"type":"thought","text":"The only thing that interferes with my learning is my education.","_id":"111"}
+{"type":"question","text":"How do black holes form?","_id":"112"}
+{"type":"thought","text":"The only way to do great work is to love what you do.","_id":"113"}
+{"type":"question","text":"What is the largest tree?","_id":"114"}
+{"type":"thought","text":"The only thing we have to fear is fear itself.","_id":"115"}
+{"type":"question","text":"Why do we have different weather patterns?","_id":"116"}
+{"type":"thought","text":"The only true wisdom is in knowing you know nothing.","_id":"117"}
+{"type":"question","text":"What is the capital of Russia?","_id":"118"}
+{"type":"thought","text":"The only thing that interferes with my learning is my education.","_id":"119"}
+{"type":"question","text":"How does photosynthesis work?","_id":"12"}
+{"type":"question","text":"How do galaxies form?","_id":"120"}
+{"type":"thought","text":"The only way to do great work is to love what you do.","_id":"121"}
+{"type":"question","text":"What is the largest flower?","_id":"122"}
+{"type":"thought","text":"The only thing we have to fear is fear itself.","_id":"123"}
+{"type":"question","text":"Why do we have different ecosystems?","_id":"124"}
+{"type":"thought","text":"The only true wisdom is in knowing you know nothing.","_id":"125"}
+{"type":"question","text":"What is the capital of China?","_id":"126"}
+{"type":"thought","text":"The only thing that interferes with my learning is my education.","_id":"127"}
+{"type":"question","text":"How do planets form?","_id":"128"}
+{"type":"thought","text":"The only way to do great work is to love what you do.","_id":"129"}
+{"type":"thought","text":"Happiness is not something ready-made. It comes from your own actions.","_id":"13"}
+{"type":"question","text":"What is the largest fruit?","_id":"130"}
+{"type":"thought","text":"The only thing we have to fear is fear itself.","_id":"131"}
+{"type":"question","text":"Why do we have different biomes?","_id":"132"}
+{"type":"thought","text":"The only true wisdom is in knowing you know nothing.","_id":"133"}
+{"type":"question","text":"What is the capital of India?","_id":"134"}
+{"type":"thought","text":"The only thing that interferes with my learning is my education.","_id":"135"}
+{"type":"question","text":"How do comets form?","_id":"136"}
+{"type":"thought","text":"The only way to do great work is to love what you do.","_id":"137"}
+{"type":"question","text":"What is the largest vegetable?","_id":"138"}
+{"type":"thought","text":"The only thing we have to fear is fear itself.","_id":"139"}
+{"type":"question","text":"What is the capital of Iceland?","_id":"14"}
+{"type":"question","text":"Why do we have different habitats?","_id":"140"}
+{"type":"thought","text":"The only true wisdom is in knowing you know nothing.","_id":"141"}
+{"type":"question","text":"What is the capital of Mexico?","_id":"142"}
+{"type":"thought","text":"The only thing that interferes with my learning is my education.","_id":"143"}
+{"type":"question","text":"How do asteroids form?","_id":"144"}
+{"type":"thought","text":"The only way to do great work is to love what you do.","_id":"145"}
+{"type":"question","text":"What is the largest seed?","_id":"146"}
+{"type":"thought","text":"The only thing we have to fear is fear itself.","_id":"147"}
+{"type":"question","text":"Why do we have different species?","_id":"148"}
+{"type":"thought","text":"The only true wisdom is in knowing you know nothing.","_id":"149"}
+{"type":"thought","text":"The best way to predict the future is to invent it.","_id":"15"}
+{"type":"question","text":"What is the capital of Egypt?","_id":"150"}
+{"type":"thought","text":"The only thing that interferes with my learning is my education.","_id":"151"}
+{"type":"question","text":"How do stars die?","_id":"152"}
+{"type":"thought","text":"The only way to do great work is to love what you do.","_id":"153"}
+{"type":"question","text":"What is the largest nut?","_id":"154"}
+{"type":"thought","text":"The only thing we have to fear is fear itself.","_id":"155"}
+{"type":"question","text":"Why do we have different organisms?","_id":"156"}
+{"type":"thought","text":"The only true wisdom is in knowing you know nothing.","_id":"157"}
+{"type":"question","text":"What is the capital of Turkey?","_id":"158"}
+{"type":"thought","text":"The only thing that interferes with my learning is my education.","_id":"159"}
+{"type":"question","text":"Why is the sky blue?","_id":"16"}
+{"type":"question","text":"How do planets die?","_id":"160"}
+{"type":"thought","text":"The only way to do great work is to love what you do.","_id":"161"}
+{"type":"question","text":"What is the largest grain?","_id":"162"}
+{"type":"thought","text":"The only thing we have to fear is fear itself.","_id":"163"}
+{"type":"question","text":"Why do we have different life forms?","_id":"164"}
+{"type":"thought","text":"The only true wisdom is in knowing you know nothing.","_id":"165"}
+{"type":"question","text":"What is the capital of Greece?","_id":"166"}
+{"type":"thought","text":"The only thing that interferes with my learning is my education.","_id":"167"}
+{"type":"question","text":"How do galaxies die?","_id":"168"}
+{"type":"thought","text":"The only way to do great work is to love what you do.","_id":"169"}
+{"type":"thought","text":"In the end, we only regret the chances we didn't take.","_id":"17"}
+{"type":"question","text":"What is the largest leaf?","_id":"170"}
+{"type":"thought","text":"The only thing we have to fear is fear itself.","_id":"171"}
+{"type":"question","text":"Why do we have different ecosystems?","_id":"172"}
+{"type":"thought","text":"The only true wisdom is in knowing you know nothing.","_id":"173"}
+{"type":"question","text":"What is the capital of Portugal?","_id":"174"}
+{"type":"thought","text":"The only thing that interferes with my learning is my education.","_id":"175"}
+{"type":"question","text":"How do black holes die?","_id":"176"}
+{"type":"thought","text":"The only way to do great work is to love what you do.","_id":"177"}
+{"type":"question","text":"What is the largest root?","_id":"178"}
+{"type":"thought","text":"The only thing we have to fear is fear itself.","_id":"179"}
+{"type":"question","text":"What is the largest mammal on Earth?","_id":"18"}
+{"type":"question","text":"Why do we have different environments?","_id":"180"}
+{"type":"thought","text":"The only true wisdom is in knowing you know nothing.","_id":"181"}
+{"type":"question","text":"What is the capital of the Netherlands?","_id":"182"}
+{"type":"thought","text":"The only thing that interferes with my learning is my education.","_id":"183"}
+{"type":"question","text":"How do stars form?","_id":"184"}
+{"type":"thought","text":"The only way to do great work is to love what you do.","_id":"185"}
+{"type":"question","text":"What is the largest stem?","_id":"186"}
+{"type":"thought","text":"The only thing we have to fear is fear itself.","_id":"187"}
+{"type":"question","text":"Why do we have different climates?","_id":"188"}
+{"type":"thought","text":"The only true wisdom is in knowing you know nothing.","_id":"189"}
+{"type":"thought","text":"Life is what happens when you're busy making other plans.","_id":"19"}
+{"type":"question","text":"What is the capital of Belgium?","_id":"190"}
+{"type":"thought","text":"The only thing that interferes with my learning is my education.","_id":"191"}
+{"type":"question","text":"How do planets form?","_id":"192"}
+{"type":"thought","text":"The only way to do great work is to love what you do.","_id":"193"}
+{"type":"question","text":"What is the largest branch?","_id":"194"}
+{"type":"thought","text":"The only thing we have to fear is fear itself.","_id":"195"}
+{"type":"question","text":"Why do we have different weather patterns?","_id":"196"}
+{"type":"thought","text":"The only true wisdom is in knowing you know nothing.","_id":"197"}
+{"type":"question","text":"What is the capital of Switzerland?","_id":"198"}
+{"type":"thought","text":"The only thing that interferes with my learning is my education.","_id":"199"}
+{"type":"question","text":"What is the speed of light?","_id":"2"}
+{"type":"question","text":"How do bees make honey?","_id":"20"}
+{"type":"question","text":"How do galaxies form?","_id":"200"}
+{"type":"thought","text":"The purpose of life is not to be happy. It is to be useful.","_id":"21"}
+{"type":"question","text":"What is the smallest planet in our solar system?","_id":"22"}
+{"type":"thought","text":"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.","_id":"23"}
+{"type":"question","text":"How does gravity work?","_id":"24"}
+{"type":"thought","text":"The only impossible journey is the one you never begin.","_id":"25"}
+{"type":"question","text":"What is the most spoken language in the world?","_id":"26"}
+{"type":"thought","text":"Success is not the key to happiness. Happiness is the key to success.","_id":"27"}
+{"type":"question","text":"Why do leaves change color in the fall?","_id":"28"}
+{"type":"thought","text":"The greatest glory in living lies not in never falling, but in rising every time we fall.","_id":"29"}
+{"type":"thought","text":"Music can change the world.","_id":"3"}
+{"type":"question","text":"What is the deepest ocean trench?","_id":"30"}
+{"type":"thought","text":"The future belongs to those who believe in the beauty of their dreams.","_id":"31"}
+{"type":"question","text":"How do airplanes fly?","_id":"32"}
+{"type":"thought","text":"The only way to do great work is to love what you do.","_id":"33"}
+{"type":"question","text":"What is the largest desert in the world?","_id":"34"}
+{"type":"thought","text":"The best time to plant a tree was 20 years ago. The second best time is now.","_id":"35"}
+{"type":"question","text":"Why do we have seasons?","_id":"36"}
+{"type":"thought","text":"The only thing we have to fear is fear itself.","_id":"37"}
+{"type":"question","text":"What is the longest river in the world?","_id":"38"}
+{"type":"thought","text":"The greatest wealth is to live content with little.","_id":"39"}
+{"type":"question","text":"How do birds navigate during migration?","_id":"4"}
+{"type":"question","text":"How do volcanoes erupt?","_id":"40"}
+{"type":"thought","text":"The only true wisdom is in knowing you know nothing.","_id":"41"}
+{"type":"question","text":"What is the largest ocean on Earth?","_id":"42"}
+{"type":"thought","text":"The unexamined life is not worth living.","_id":"43"}
+{"type":"question","text":"Why do stars twinkle?","_id":"44"}
+{"type":"thought","text":"The only limit to our realization of tomorrow is our doubts of today.","_id":"45"}
+{"type":"question","text":"What is the hottest planet in our solar system?","_id":"46"}
+{"type":"thought","text":"The only thing necessary for the triumph of evil is for good men to do nothing.","_id":"47"}
+{"type":"question","text":"How do plants grow?","_id":"48"}
+{"type":"thought","text":"The only way to have a friend is to be one.","_id":"49"}
+{"type":"thought","text":"Art is the lie that enables us to realize the truth.","_id":"5"}
+{"type":"question","text":"What is the largest continent by area?","_id":"50"}
+{"type":"thought","text":"The only thing we have to fear is fear itself.","_id":"51"}
+{"type":"question","text":"Why do we yawn?","_id":"52"}
+{"type":"thought","text":"The only true wisdom is in knowing you know nothing.","_id":"53"}
+{"type":"question","text":"What is the capital of Japan?","_id":"54"}
+{"type":"thought","text":"The only thing that interferes with my learning is my education.","_id":"55"}
+{"type":"question","text":"How does the water cycle work?","_id":"56"}
+{"type":"thought","text":"The only way to do great work is to love what you do.","_id":"57"}
+{"type":"question","text":"What is the largest animal on Earth?","_id":"58"}
+{"type":"thought","text":"The only thing we have to fear is fear itself.","_id":"59"}
+{"type":"question","text":"What causes the seasons to change?","_id":"6"}
+{"type":"question","text":"Why do we sleep?","_id":"60"}
+{"type":"thought","text":"The only true wisdom is in knowing you know nothing.","_id":"61"}
+{"type":"question","text":"What is the capital of France?","_id":"62"}
+{"type":"thought","text":"The only thing that interferes with my learning is my education.","_id":"63"}
+{"type":"question","text":"How do magnets work?","_id":"64"}
+{"type":"thought","text":"The only way to do great work is to love what you do.","_id":"65"}
+{"type":"question","text":"What is the largest bird in the world?","_id":"66"}
+{"type":"thought","text":"The only thing we have to fear is fear itself.","_id":"67"}
+{"type":"question","text":"Why do we have tides?","_id":"68"}
+{"type":"thought","text":"The only true wisdom is in knowing you know nothing.","_id":"69"}
+{"type":"thought","text":"Dreams are the touchstones of our character.","_id":"7"}
+{"type":"question","text":"What is the capital of Germany?","_id":"70"}
+{"type":"thought","text":"The only thing that interferes with my learning is my education.","_id":"71"}
+{"type":"question","text":"How do clouds form?","_id":"72"}
+{"type":"thought","text":"The only way to do great work is to love what you do.","_id":"73"}
+{"type":"question","text":"What is the largest fish in the ocean?","_id":"74"}
+{"type":"thought","text":"The only thing we have to fear is fear itself.","_id":"75"}
+{"type":"question","text":"Why do we have day and night?","_id":"76"}
+{"type":"thought","text":"The only true wisdom is in knowing you know nothing.","_id":"77"}
+{"type":"question","text":"What is the capital of Italy?","_id":"78"}
+{"type":"thought","text":"The only thing that interferes with my learning is my education.","_id":"79"}
+{"type":"question","text":"Why do we dream?","_id":"8"}
+{"type":"question","text":"How do earthquakes occur?","_id":"80"}
+{"type":"thought","text":"The only way to do great work is to love what you do.","_id":"81"}
+{"type":"question","text":"What is the largest land animal?","_id":"82"}
+{"type":"thought","text":"The only thing we have to fear is fear itself.","_id":"83"}
+{"type":"question","text":"Why do we have weather?","_id":"84"}
+{"type":"thought","text":"The only true wisdom is in knowing you know nothing.","_id":"85"}
+{"type":"question","text":"What is the capital of Spain?","_id":"86"}
+{"type":"thought","text":"The only thing that interferes with my learning is my education.","_id":"87"}
+{"type":"question","text":"How do rainbows form?","_id":"88"}
+{"type":"thought","text":"The only way to do great work is to love what you do.","_id":"89"}
+{"type":"thought","text":"The only limit to our realization of tomorrow is our doubts of today.","_id":"9"}
+{"type":"question","text":"What is the largest reptile?","_id":"90"}
+{"type":"thought","text":"The only thing we have to fear is fear itself.","_id":"91"}
+{"type":"question","text":"Why do we have different time zones?","_id":"92"}
+{"type":"thought","text":"The only true wisdom is in knowing you know nothing.","_id":"93"}
+{"type":"question","text":"What is the capital of Canada?","_id":"94"}
+{"type":"thought","text":"The only thing that interferes with my learning is my education.","_id":"95"}
+{"type":"question","text":"How do glaciers form?","_id":"96"}
+{"type":"thought","text":"The only way to do great work is to love what you do.","_id":"97"}
+{"type":"question","text":"What is the largest amphibian?","_id":"98"}
+{"type":"thought","text":"The only thing we have to fear is fear itself.","_id":"99"}
+{"text":"What is the tallest building in the world??","url":"https://networked-media.itp.io/@enock/113439359547075887","date":"11/6/2024, 9:40:58 PM","_id":"a5UdscAktemXe6AV"}
+{"text":"What is the tallest building in the world??","url":"https://networked-media.itp.io/@enock/113439367604637135","date":"11/6/2024, 9:43:01 PM","_id":"ykh6M8ACxowJ0bRZ"}
+{"text":"What is the tallest building in the world?","url":"https://networked-media.itp.io/@enock/113439472797355626","date":"11/6/2024, 10:09:46 PM","_id":"lKCSvF96kYA4nXWi"}
